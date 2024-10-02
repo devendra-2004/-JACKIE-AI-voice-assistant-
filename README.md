@@ -1,7 +1,7 @@
 # -JACKIE-AI-voice-assistant-
 # JACKIE (Just a Rather Very Intelligent System)
 
-#### This was my attempt to make a voice assistant similar to JACKIEE(in iron man movie)
+#### This was my attempt to make a voice assistant similar to JACKIEE.
 #### Let's be honest, it's not as intelligent as in the movie, but it can do a lot of cool things and automate your daily tasks you do on your personal computers/laptops.
 
 ## Built with
